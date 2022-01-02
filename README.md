@@ -1,2 +1,2 @@
 # CCS-responsiveness
-- An alternate to mediaquery
+- 'resizeObserver' an alternate to 'mediaQuery'
